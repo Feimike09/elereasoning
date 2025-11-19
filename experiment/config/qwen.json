@@ -1,0 +1,5 @@
+{
+    "type": "qwen",
+    "model_name": "qwen-max",
+    "api_key": "your_api_key_here"
+}

@@ -1,0 +1,5 @@
+{
+    "type": "local",
+    "model_name": "llama3-70b",
+    "api_url": "http://localhost:8000/v1/chat/completions"
+}
